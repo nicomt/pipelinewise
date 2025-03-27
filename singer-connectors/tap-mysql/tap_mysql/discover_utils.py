@@ -34,7 +34,8 @@ STRING_TYPES = {
     'longtext',
     'mediumtext',
     'text',
-    'varchar'
+    'varchar',
+    'set'
 }
 
 BYTES_FOR_INTEGER_TYPE = {
